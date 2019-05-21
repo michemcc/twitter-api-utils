@@ -26,4 +26,4 @@ separately. To be guided through this process, run:
 Then add your consumer and access tokens to `config.py`.
 
     Michael McCarthy <michemcc@outlook.com>
-    https://www.linkedin.com/in/michael-mccarthy-997620b3/
+    https://www.linkedin.com/in/michemcc/
